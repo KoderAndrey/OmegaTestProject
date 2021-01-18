@@ -59,8 +59,4 @@ class MainActivity : AppCompatActivity() {
             .create()
             .show()
     }
-
-//    override fun onClick(user: UserModel) {
-//        UserInfoActivity.start(this, user)
-//    }
 }
