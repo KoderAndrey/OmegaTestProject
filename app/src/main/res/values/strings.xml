@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OmegaTestProject</string>
+    <string name="error">ERROR</string>
+    <string name="success">SUCCESS</string>
+    <string name="sum_elements">Sum of elements = %1s</string>
+    <string name="calculate">calculate</string>
+</resources>
